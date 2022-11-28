@@ -58,6 +58,10 @@ body {
     cursor: pointer;
 }
 
+textarea {
+    resize: none;
+}
+
 .obrigatorio {
     color: #F52E2E;
     font-size: 8px;
